@@ -1,2 +1,3 @@
 # q-vscode-extensionpacks
-Extension pakcs source
+
+Extension bundles for personal use.

@@ -1,0 +1,32 @@
+{
+    "name": "qbasics",
+    "displayName": "qbasics",
+    "description": "basic extensions for vscode",
+    "version": "0.0.2",
+    "publisher": "qfilip",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qfilip/q-vscode-extensionpacks",
+        "directory": "qbasics"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "emroussel.atom-icons", 
+        "esbenp.prettier-vscode", 
+        "fg.grapes-theme", 
+        "formulahendry.auto-rename-tag",
+        "MaxfieldWalker.vscode-color-theme-spirited-away", 
+        "qfilip.watergrape-theme",
+        "techer.open-in-browser",
+        
+        "aaron-bond.better-comments",
+        "Gruntfuggly.todo-tree"
+    ]
+}
