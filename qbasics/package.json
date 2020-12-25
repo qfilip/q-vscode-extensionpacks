@@ -2,7 +2,7 @@
     "name": "qbasics",
     "displayName": "qbasics",
     "description": "basic extensions for vscode",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "qfilip",
     "engines": {
         "vscode": "^1.42.0"
@@ -20,13 +20,15 @@
         "CoenraadS.bracket-pair-colorizer", 
         "emroussel.atom-icons", 
         "esbenp.prettier-vscode", 
-        "fg.grapes-theme", 
         "formulahendry.auto-rename-tag",
         "MaxfieldWalker.vscode-color-theme-spirited-away", 
         "qfilip.watergrape-theme",
         "techer.open-in-browser",
         
         "aaron-bond.better-comments",
-        "Gruntfuggly.todo-tree"
+        "Gruntfuggly.todo-tree",
+        "quicktype.quicktype",
+        "ritwickdey.LiveServer",
+        "JakeWilson.vscode-cdnjs"
     ]
 }
